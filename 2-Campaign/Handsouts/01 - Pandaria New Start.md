@@ -1,10 +1,19 @@
 ## Pandaria
 
 
+<<<<<<< HEAD
+=======
+Pandaria as it is called by the inhabitants is a small group of islands that are perpetually surrounded by mist.
+
+
+Thematic - The lands of Pandaria are inspired by ancient Chinese.
+
+![[Pasted image 20240828000506.png | 800]]
+>>>>>>> origin/main
 
 
 Pandaria is surrounded by magical mists conjured by the Last God Emperor Shaohao before he disappeared immediately after many millennium ago. 
-Any attempt to leave the island has been unsuccessful well at least the parties who have ventured into the mist have never returned to the island.
+People who wonder into the mist are never seen again. It is believed that the mist prevents the island from being found.
 
 
 
@@ -80,6 +89,84 @@ Newly hatched mantid have only two instincts: kill and feed. They turn on one an
 The time for the next assault will soon be upon our lands. 
 
 
+<<<<<<< HEAD
+=======
+#### The August Celestials
+Beast Guardians of Pandaria More Information to come.
+
+
+### Rules Update
+
+Two new classes have been added to the campaign. 
+	Eldamon Trainer
+	Eldamon Avatar
+
+https://drive.google.com/file/d/1pa84flyBUcCkhEvmglkId6jUudm9l73k/view?usp=drive_link
+
+Free Archtype Has been removed will be replaced wiith a different system you will see later on.
+
+Automatic Rune Progression has been removed. You will have to go out and find the runes that best interest you.
+
+
+
+
+## Character Creation
+
+You should follow these steps for creating a character.
+
+1.) Choose what faction to be a member of.
+	- Tushui
+	- Huojin
+	- Independent
+
+2.) Choose your class.
+	Any class is viable.
+	You will start at Lvl 0.
+
+3.) Work on Background
+		Choose a common or uncommon background.
+
+4.) Work on Backstory.
+		We will be using the 7 knife system again if you are unsure of what that is feel free to message Shawn.
+		They should be spread out across local things and longer term things.
+		Your character should have a short term goal. This is something that they can likely complete on the island and a long term goal. A reason the character would want to explore or see the rest of the world.
+
+
+###### Optional Backstories to start with. *(Fist Come First Server)
+These provide tie ins to the story already but can be further flushed out by YOU the awesome players!
+
+**Brew Master**
+Your family owns a legendary brewery. 
+Short Term: However you have noticed the local supply has been dropping you want to travel to the brewery in the valley and see what is going on.
+Long Term: You want to create the best alcohol in the world.
+
+**Soul Mate**
+You have dreams of a loved one that you have never met.
+Short Term: Find a way off Pandaria
+Long Term: Connect With the person you are having dreams about.
+
+**Cosmic Visitor**
+Has not happened at the start of the story. You are visited by a visitor out of time. Explaining events to come.
+Short Term: Get a better understanding of what you saw.
+Long Term: Get more powerful to prevent the events.
+
+**Possessed**
+You are inhabited by a creature a Sha for example.
+Short Term: Learn to deal with the possession and suppress it.
+Long Term: Purge the Possession from you and the lands.
+
+**Cosmic Shards**
+You have read stories about the cosmic shards. You are interested in collecting as many as possible.
+Short Term: Find Eternity's Essenece
+Long Term: Learn where the shards come from and collect more.
+
+**Eldamon Enthusiast**
+You want to capture all of the Eldamon in your Eladex.
+Short Term: Find the local ones
+Long Term: Find all of them in the world!
+	
+	
+>>>>>>> origin/main
 ### Rumors
 
 - Y'Shaarj One of the original gods is rumored to have been slayed on this island and his blood soaks the land causing powerful emotions to bring forth beings called Sha (Spirit Demons). 
