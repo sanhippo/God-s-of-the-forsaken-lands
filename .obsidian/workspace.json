@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Campaign/Handsouts/01 - Pandaria New Start.md",
+                "file": "1-Session Journals/2000-01-01.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Campaign/Handsouts/01 - Pandaria New Start.md",
+                "file": "1-Session Journals/2000-01-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Campaign/Handsouts/01 - Pandaria New Start.md",
+                "file": "1-Session Journals/2000-01-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Campaign/Handsouts/01 - Pandaria New Start.md"
+                "file": "1-Session Journals/2000-01-01.md"
               }
             }
           },
@@ -188,6 +188,11 @@
   },
   "active": "a654ad073c673572",
   "lastOpenFiles": [
+    "1-Session Journals/git ignore ..md",
+    "1-Session Journals/2000-01-01.md",
+    "1-Session Journals/2023-10-26.md",
+    "1-Session Journals/Untitled.md",
+    "2-Campaign/Handsouts/01 - Pandaria New Start.md",
     "z_Assets/Pasted image 20240828122851.png",
     "z_Assets/Pasted image 20240828122753.png",
     "z_Assets/Pasted image 20240828122729.png",
@@ -197,7 +202,6 @@
     "z_Assets/Pasted image 20240828122443.png",
     "z_Assets/Pasted image 20240828122409.png",
     "2-Campaign/Quests/Quests.md",
-    "2-Campaign/Handsouts/01 - Pandaria New Start.md",
     "z_Templates/4_Markdown/Insert Rollable Table/Insert Rollable Table.md",
     "z_Templates/4_Markdown/Insert Rollable Table/Insert Rollable Table - d8.md",
     "z_Templates/4_Markdown/Insert Rollable Table/Insert Rollable Table - d6.md",
@@ -218,9 +222,6 @@
     "z_Templates/4_Markdown/Combat Templates/Insert Custom Encounter (Initiative Tracker).md",
     "z_Templates/4_Markdown/Call Out Boxes/Call Out Boxes.md",
     "z_Templates/4_Markdown/Call Out Boxes/Call Out - Treasure.md",
-    "z_Templates/4_Markdown/Call Out Boxes/Call Out - Trap.md",
-    "z_Templates/4_Markdown/Call Out Boxes/Call Out - Right Section.md",
-    "z_Templates/4_Markdown/Call Out Boxes/Call Out - Read Aloud.md",
     "z_Templates/4_Markdown/Insert Rollable Table",
     "z_Templates/4_Markdown/Handlebar_Template_-_Spells.zip",
     "z_Templates/4_Markdown/Combat Templates",
@@ -232,7 +233,6 @@
     "z_Templates/4_Markdown",
     "z_Templates/3_Dataview Templates",
     "z_Assets/cover.webp",
-    "z_Assets/TemplateSettlement-20240122215419380.webp",
-    "z_Assets/RoTTP.webp"
+    "z_Assets/TemplateSettlement-20240122215419380.webp"
   ]
 }
