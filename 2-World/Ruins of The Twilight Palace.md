@@ -103,7 +103,7 @@ While in the **Past State** the Palace is both at it's safest and most deadliest
 
 >[!readaloud | wsmall right]
 
->
+>dd
 
   
 
