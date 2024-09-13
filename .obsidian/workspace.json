@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Session Journals/2000-01-01.md",
-                "mode": "source",
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Session Journals/2000-01-01.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-Session Journals/2000-01-01.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-Session Journals/2000-01-01.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -188,8 +188,14 @@
   },
   "active": "a654ad073c673572",
   "lastOpenFiles": [
-    "1-Session Journals/git ignore ..md",
+    "2024-09-09.md",
+    "conflict-files-obsidian-git.md",
+    "README.md",
+    "New Note.md",
+    "1-Session Journals/01 - 2024-09-10.md",
     "1-Session Journals/2000-01-01.md",
+    "z_Assets/Pasted image 20240909213120.png",
+    "1-Session Journals/git ignore ..md",
     "1-Session Journals/2023-10-26.md",
     "1-Session Journals/Untitled.md",
     "2-Campaign/Handsouts/01 - Pandaria New Start.md",
@@ -217,11 +223,6 @@
     "z_Templates/4_Markdown/Combat Templates/Insert Monster Into Table (Initiative Tracker).md",
     "z_Templates/4_Markdown/Combat Templates/Insert Monster (TTRPG Statblock).md",
     "z_Templates/4_Markdown/Combat Templates/Insert Encounter (Initiative Tracker).md",
-    "z_Templates/4_Markdown/Combat Templates/Insert Customer Monster (TTRPG Statblock).md",
-    "z_Templates/4_Markdown/Combat Templates/Insert Custom Encounter Table (Initiative Tracker).md",
-    "z_Templates/4_Markdown/Combat Templates/Insert Custom Encounter (Initiative Tracker).md",
-    "z_Templates/4_Markdown/Call Out Boxes/Call Out Boxes.md",
-    "z_Templates/4_Markdown/Call Out Boxes/Call Out - Treasure.md",
     "z_Templates/4_Markdown/Insert Rollable Table",
     "z_Templates/4_Markdown/Handlebar_Template_-_Spells.zip",
     "z_Templates/4_Markdown/Combat Templates",
@@ -232,7 +233,6 @@
     "z_Templates/7_World Building Templates",
     "z_Templates/4_Markdown",
     "z_Templates/3_Dataview Templates",
-    "z_Assets/cover.webp",
-    "z_Assets/TemplateSettlement-20240122215419380.webp"
+    "z_Assets/cover.webp"
   ]
 }
