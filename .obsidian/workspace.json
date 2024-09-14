@@ -1,19 +1,31 @@
 {
   "main": {
-    "id": "7848dd6ffa2854e8",
+    "id": "b8449a08d83570b9",
     "type": "split",
     "children": [
       {
-        "id": "aea3c78db2e083d5",
+        "id": "c57bbb66c12fcb1f",
         "type": "tabs",
         "children": [
           {
-            "id": "fd6164bf7e469c0d",
+            "id": "200bc0b53f78614c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-DM Toolkit/DM Board.md",
+                "file": "1-DM Toolkit/Link.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ba95b1cb5ed36719",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-DM Toolkit/Home.md",
                 "mode": "preview",
                 "source": false
               }
@@ -25,15 +37,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e06544aac8e8cb81",
+    "id": "95f363e6f41d9225",
     "type": "split",
     "children": [
       {
-        "id": "6e1981d9b0b49e86",
+        "id": "77b9497032e446ed",
         "type": "tabs",
         "children": [
           {
-            "id": "99570028e9a9bdbd",
+            "id": "3865cc583fe397bf",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +55,7 @@
             }
           },
           {
-            "id": "d3f4a15860f42abc",
+            "id": "2d7b2901f7775c0d",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,46 +70,34 @@
             }
           },
           {
-            "id": "66d8a685641ca44d",
+            "id": "7c355db28f922846",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
-            }
-          },
-          {
-            "id": "8fa138db435683f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-DM Toolkit/DM Board.md",
-                "mode": "preview",
-                "source": false
-              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 299.5
   },
   "right": {
-    "id": "e2aac6dc483370b3",
+    "id": "24bab062121a5954",
     "type": "split",
     "children": [
       {
-        "id": "fe717db540c9e435",
+        "id": "40211697c7be170f",
         "type": "tabs",
         "children": [
           {
-            "id": "d7d498d120e1bdd2",
+            "id": "e462bf8c12efe9a4",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-DM Toolkit/DM Board.md",
+                "file": "1-DM Toolkit/Link.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,19 +109,19 @@
             }
           },
           {
-            "id": "b0a8b3be673840dd",
+            "id": "834dc43619b0042e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-DM Toolkit/DM Board.md",
+                "file": "1-DM Toolkit/Link.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "acdf09a431f72729",
+            "id": "18c5ae1dfa256501",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -132,17 +132,17 @@
             }
           },
           {
-            "id": "df298bcd45a9801f",
+            "id": "ce0e8ad9da372478",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-DM Toolkit/DM Board.md"
+                "file": "1-DM Toolkit/Link.md"
               }
             }
           },
           {
-            "id": "15efd941c81e54aa",
+            "id": "534c375e2cc8268b",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -154,7 +154,7 @@
             }
           },
           {
-            "id": "83a30698a951ae6c",
+            "id": "3a74c4d7e357ffbc",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-view",
@@ -162,7 +162,7 @@
             }
           },
           {
-            "id": "1b0cd5c6a696fb51",
+            "id": "f98c99a4d2c594b5",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
@@ -183,9 +183,9 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-import-json:JSON/CSV Importer": false,
       "obsidian42-brat:BRAT": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-kanban:Create new board": false,
       "helpmate:HelpMate": false,
@@ -198,53 +198,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fd6164bf7e469c0d",
+  "active": "200bc0b53f78614c",
   "lastOpenFiles": [
     "1-DM Toolkit/Home.md",
+    "1-DM Toolkit/Link.md",
+    "z_Assets/Pasted image 20240914161007.png",
     "1-DM Toolkit/DM Board.md",
+    "1-DM Toolkit/Vault Report.md",
+    "1-DM Toolkit/Map Calculator.md",
     "1-DM Toolkit/Journey Board.md",
-    "1-Party/Example Party 2/Jane.md",
+    "1-Session Journals/01 - 2024-09-10.md",
+    "1-Party/Limpie.md",
+    "2-Campaign/Handsouts/01 - Pandaria New Start.md",
+    "conflict-files-obsidian-git.md",
+    "z_Assets/Pasted image 20240909213120.png",
+    "2024-09-09.md",
+    "1-Session Journals/Untitled.md",
+    "1-Session Journals/2023-10-26.md",
+    "1-Session Journals/2000-01-01.md",
+    "2-Campaign/Quests/Quests.md",
+    "z_Assets/Pasted image 20240828122851.png",
+    "z_Assets/Pasted image 20240828122753.png",
+    "z_Assets/Pasted image 20240828122729.png",
+    "z_Assets/Pasted image 20240828122639.png",
+    "z_Assets/Pasted image 20240828122558.png",
+    "z_Assets/Pasted image 20240828122509.png",
+    "z_Assets/Pasted image 20240828122443.png",
+    "z_Assets/Pasted image 20240828122409.png",
+    "0-Obsidian TTRPG Tutorial/0-Obsidian TTRPG Tutorial.md",
+    "2-World/Lampoteuo/Lampoteuo.md",
+    "2-Campaign/Handsouts/Untitled.md",
+    "z_Templates/4_Markdown/Insert Regional Map (Leaflet).md",
+    "1-DM Toolkit/DnD5e-SideScreen.md",
+    "1-DM Toolkit/DnD5e-DM Screen.md",
     "1-Party/Example Party 2/Example Party 2.md",
     "1-Party/Example Party 1/Example Party 1.md",
-    "1-Party/Example Party 1/Bob.md",
-    "1-Party/Example Party 1/Flap.md",
-    "3-Mechanics/Where To Get Mechanics.md",
-    "3-Mechanics/NPCs/Jasmine.md",
-    "3-Mechanics/Items/DefaultName.md",
-    "3-Mechanics/Items/Broken Stick.md",
-    "3-Mechanics/Guilds and Groups/Untitled.md",
-    "3-Mechanics/Guilds and Groups/Magicians.md",
-    "3-Mechanics/Guilds and Groups/Harpers.md",
-    "3-Mechanics/CLI/CLI.md",
-    "1-DM Toolkit/Map Calculator.md",
-    "1-DM Toolkit/Vault Report.md",
-    "2024-09-09.md",
-    "1-Session Journals/01 - 2024-09-10.md",
-    "1-DM Toolkit/08-using-ability-scores.md",
-    "1-Session Journals/2024-09-09.md",
-    "1-Session Journals/2000-01-01.md",
-    "1-Party/Limpie.md",
-    "0-Obsidian TTRPG Tutorial/0-Obsidian TTRPG Tutorial.md",
-    "0-Scratch Notes/Add Random Notes Here.md",
-    "z_Assets/Pasted Image 20240630230819_217.png",
-    "z_Assets/Pasted image 20240702203102.png",
-    "z_Assets/Pasted image 20240702203106.png",
-    "z_Assets/Pasted image 20240827225306.png",
-    "z_Assets/Pasted image 20240827225902.png",
-    "z_Assets/Pasted image 20240827230513.png",
-    "z_Assets/Pasted image 20240828000443.png",
-    "z_Assets/Pasted image 20240828000506.png",
-    "z_Assets/Pasted image 20240828122409.png",
-    "z_Assets/Pasted image 20240828122443.png",
+    "2-World/Lampoteuo/Creepers Cave/Creepers Cave.md",
+    "2-World/Lampoteuo/Lampoteuo City/Lampoteuo City.md",
+    "2-Campaign/Handsouts",
     "z_Templates/4_Markdown/Insert Rollable Table",
     "z_Templates/4_Markdown/Handlebar_Template_-_Spells.zip",
     "z_Templates/4_Markdown/Combat Templates",
     "z_Templates/4_Markdown/Call Out Boxes.zip",
     "z_Templates/4_Markdown/Call Out Boxes",
     "z_Templates/4_Markdown/April's Timeline",
-    "z_Templates/6_Help Notes",
     "z_Templates/7_World Building Templates",
-    "z_Templates/4_Markdown",
-    "z_Templates/3_Dataview Templates"
+    "z_Templates/3_Dataview Templates",
+    "z_Templates/4_Markdown"
   ]
 }
