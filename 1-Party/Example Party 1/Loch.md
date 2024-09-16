@@ -1,25 +1,20 @@
 ---
 NoteIcon: player
 aliases:
-  - Bob
+  - Loch
 tags:
   - player
-Player: Bob
+Player: Marrie
 Role: Player
-Class:
-  - Barbarian
-Race:
-  - Human
-level: 8
-hp: 71
-ac: 22
-modifier: 4
-pasperc: 13
+Class: 
+Race: 
+level: 
+hp: 
+ac: 
+modifier: 
+pasperc: 
 Status: Active
-PlayerKnownLanguages:
-  - Celestial
-  - Common
-  - Dwarvish
+PlayerKnownLanguages: []
 ---
 
 
