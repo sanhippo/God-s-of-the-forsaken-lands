@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Session Journals/01 - 2024-09-10.md",
-                "mode": "preview",
+                "file": "1-Session Journals/02 - 2024-09-17.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Session Journals/01 - 2024-09-10.md",
+                "file": "1-Session Journals/02 - 2024-09-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-Session Journals/01 - 2024-09-10.md",
+                "file": "1-Session Journals/02 - 2024-09-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-Session Journals/01 - 2024-09-10.md"
+                "file": "1-Session Journals/02 - 2024-09-17.md"
               }
             }
           },
@@ -200,12 +200,21 @@
   },
   "active": "fd6164bf7e469c0d",
   "lastOpenFiles": [
-    "1-Session Journals/Fred.md",
     "1-Session Journals/01 - 2024-09-10.md",
-    "2-Campaign/Quests/1.) Bring Supplies to The Serpant Spine..md",
-    "3-Mechanics/NPCs/Master Snowdrift.md",
+    "2000-01-01.md",
+    "1-Session Journals/02 - 2024-09-17.md",
     "1-DM Toolkit/DM Board.md",
     "1-DM Toolkit/Home.md",
+    "z_Templates/3_Dataview Templates/3_Dataview Templates.md",
+    "z_Example Notes/Untitled.md",
+    "z_Example Notes/z_Example Notes.md",
+    "z_Templates/4_Markdown/Insert Regional Map (Leaflet).md",
+    "z_Templates/4_Markdown/Insert Timeline.md",
+    "z_Templates/3_Dataview Templates/Query Outgoing Links.md",
+    "z_Templates/3_Dataview Templates/Dataview - Query TTRPG Statblocks.md",
+    "1-Session Journals/Fred.md",
+    "2-Campaign/Quests/1.) Bring Supplies to The Serpant Spine..md",
+    "3-Mechanics/NPCs/Master Snowdrift.md",
     "0-Scratch Notes/Add Random Notes Here.md",
     "2-Campaign/Quests/Warn the Midwife.md",
     "2-Campaign/Quests/Beat the Goblin.md",
@@ -217,15 +226,6 @@
     "2-World/Logger's Camp.md",
     "2-World/Ruins of The Twilight Palace.md",
     "1-Party/Example Party 1/Bill.md",
-    "1-Party/Example Party 1/Limpie.md",
-    "1-Party/Example Party 1/Cloud.md",
-    "1-Party/Example Party 1/Example Party 1.md",
-    "1-Party/Example Party 1/Flap.md",
-    "1-Party/Example Party 1/Bob.md",
-    "1-Party/Example Party 2/Example Party 2.md",
-    "1-Party/Example Party 2/Jane.md",
-    "1-Party/Example Party 1/Pan Pan.md",
-    "1-Party/Example Party 1/Loch.md",
     "z_Assets/Pasted image 20240914161007.png",
     "z_Assets/Pasted Image 20240630230819_217.png",
     "z_Assets/Pasted image 20240702203102.png",
