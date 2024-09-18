@@ -31,3 +31,6 @@ PlayerKnownLanguages:
 frame: ConfigureInCustomFramesPlugin
 ```
 
+
+
+Stole 80g worth of supplies and such for Thunderfoot Fields
