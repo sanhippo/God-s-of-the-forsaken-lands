@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Party/Example Party 1/Cloud.md",
+                "file": "1-Session Journals/03 - 2024-09-24.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Party/Example Party 1/Cloud.md",
+                "file": "1-Session Journals/03 - 2024-09-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-Party/Example Party 1/Cloud.md",
+                "file": "1-Session Journals/03 - 2024-09-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-Party/Example Party 1/Cloud.md"
+                "file": "1-Session Journals/03 - 2024-09-24.md"
               }
             }
           },
@@ -200,11 +200,18 @@
   },
   "active": "200bc0b53f78614c",
   "lastOpenFiles": [
-    "1-Party/Example Party 1/Example Party 1.md",
-    "1-Party/Example Party 1/Limpie.md",
-    "2-Campaign/Quests/Quests.md",
+    "z_Assets/Pasted image 20240924151132.png",
+    "2-Campaign/Handsouts/01 - Pandaria New Start.md",
+    "1-Session Journals/03 - 2024-09-24.md",
     "1-Session Journals/01 - 2024-09-10.md",
+    "2-Campaign/Quests/Quests.md",
+    "1-DM Toolkit/Home.md",
+    "1-DM Toolkit/DM Board.md",
+    "1-Party/Example Party 1/Example Party 1.md",
     "1-Session Journals/02 - 2024-09-17.md",
+    "1-Session Journals/Untitled.md",
+    "1-Party/Example Party 1/Cloud.md",
+    "1-Party/Example Party 1/Limpie.md",
     "1-DM Toolkit/Link.md",
     "3-Mechanics/NPCs/Master Snowdrift.md",
     "3-Mechanics/NPCs",
@@ -212,22 +219,16 @@
     "2-Campaign/Quests/1.) Bring Supplies to The Serpant Spine..md",
     "1-Party/Example Party 1/Pan Pan.md",
     "1-Party/Example Party 1/Loch.md",
-    "1-Party/Example Party 1/Cloud.md",
     "1-Party/Example Party 1/Bill.md",
-    "1-DM Toolkit/Home.md",
     "z_Assets/Pasted image 20240914161007.png",
-    "1-DM Toolkit/DM Board.md",
     "1-DM Toolkit/Vault Report.md",
     "1-DM Toolkit/Map Calculator.md",
     "1-DM Toolkit/Journey Board.md",
     "1-Party/Limpie.md",
-    "2-Campaign/Handsouts/01 - Pandaria New Start.md",
     "conflict-files-obsidian-git.md",
     "z_Assets/Pasted image 20240909213120.png",
     "2024-09-09.md",
-    "1-Session Journals/Untitled.md",
     "1-Session Journals/2023-10-26.md",
-    "1-Session Journals/2000-01-01.md",
     "z_Assets/Pasted image 20240828122851.png",
     "z_Assets/Pasted image 20240828122753.png",
     "z_Assets/Pasted image 20240828122729.png",
@@ -236,7 +237,6 @@
     "z_Assets/Pasted image 20240828122509.png",
     "z_Assets/Pasted image 20240828122443.png",
     "z_Assets/Pasted image 20240828122409.png",
-    "0-Obsidian TTRPG Tutorial/0-Obsidian TTRPG Tutorial.md",
     "2-Campaign/Handsouts",
     "z_Templates/4_Markdown/Insert Rollable Table",
     "z_Templates/4_Markdown/Handlebar_Template_-_Spells.zip",

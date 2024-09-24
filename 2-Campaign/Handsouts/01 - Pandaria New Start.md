@@ -36,6 +36,8 @@ The Races of Pandaria are listed below and generally refereed to as a group call
 - Tengu
 - Kitsune
 - Catfolk
+- Athamaru
+
 
 They worshiped the ancient spirits of the lands until Lei Shen defeated them and enslaved them. 
 
